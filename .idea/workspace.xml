@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2521db3c-b281-4c4d-a5c8-538711e527e7" name="Changes" comment="day_1_2022">
-      <change beforePath="$PROJECT_DIR$/src/Day1_2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input_day2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/AdventOfCode/AdventOfCode 2022"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AdventOfCode/AdventOfCode 2022&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +49,9 @@
       <workItem from="1670076499846" duration="327000" />
       <workItem from="1670076959165" duration="5774000" />
       <workItem from="1670161590775" duration="5392000" />
-      <workItem from="1670200389294" duration="43000" />
+      <workItem from="1670200389294" duration="211000" />
+      <workItem from="1670253134938" duration="3654000" />
+      <workItem from="1670267430810" duration="4147000" />
     </task>
     <task id="LOCAL−00001" summary="day_1_2022">
       <created>1670200009846</created>
@@ -55,7 +59,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1670200009846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="day_1_2022">
+      <created>1670200437596</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1670200437596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
